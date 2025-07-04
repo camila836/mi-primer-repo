@@ -5,7 +5,7 @@ markdown
 Este es mi primer repositorio en GitHub. Aquí estoy aprendiendo a usar Git, GitHub y el lenguaje Markdown.
 
 ## 👨‍💻 Autor
-MARIA AMILA ROA RUIZ 
+MARIA CAMILA ROA RUIZ 
 
 ## 🛠 Tecnologías utilizadas
 - Git
